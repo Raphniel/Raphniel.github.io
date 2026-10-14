@@ -1,5 +1,5 @@
 // KONFIGURASI: ganti nomor WhatsApp admin dan sesuaikan nama/harga produk sebelum live.
-const CONFIG = { whatsapp: '6281234567890', currency: 'id-ID' };
+const CONFIG = { whatsapp: '6281317832355', currency: 'id-ID' };
 const games = [
  {id:'ml',name:'Mobile Legends',short:'MLBB',category:'MOBA • DIAMOND',symbol:'ML',colors:['#2466bb','#7138d9'],products:[['86 Diamonds',20000],['172 Diamonds',39000],['257 Diamonds',58000],['344 Diamonds',77000]]},
  {id:'ff',name:'Free Fire',short:'FREE FIRE',category:'BATTLE ROYALE • DIAMOND',symbol:'FF',colors:['#f28a28','#c72d47'],products:[['70 Diamonds',10000],['140 Diamonds',20000],['355 Diamonds',49000],['720 Diamonds',97000]]},
